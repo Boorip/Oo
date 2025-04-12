@@ -5,11 +5,11 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/INNOCENTBOY2926/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐍𝐀𝐊𝐒𝐇+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐕𝐈𝐏+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐌𝐔𝐒𝐈𝐂🖤+🥀"></b></h1>
 
 <p align="center"><a href="https://t.me/its_innocent_boy_2926"><img src="https://files.catbox.moe/1i9pr6.jpg" width="600"></a></p>
 
-<h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+✨+🦋+💗+"></b></h3>
+<h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+✨+🦋+💗+"></b></h3>
     ─「 🦋ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ💗 」─
 </h2>
 <details>
@@ -28,7 +28,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/INNOCENTBOY2926/prosuffermusic/blob/Master/sample.env)
+- Get your [Necessary Variables](https://github.com/innocypapatop/VIP_INNNOCENT_MUSIC/blob/Master/sample.env)
 - Update and install necessary packages :
 `sudo apt update && sudo apt install git curl python3-pip ffmpeg -y`
 
