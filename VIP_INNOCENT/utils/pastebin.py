@@ -39,9 +39,9 @@ async def post(url: str, *args, **kwargs):
         return data
 
 
-async def INNOCENTBin(text):
-    resp = await post(f"{BASE}api/v2/paste", data=text)
-    if not resp["success"]:
-        return
-    link = BASE + resp["message"]
+async def INNOCENTBin(content):
+    url ="https://pastebin.com/api/api_post.php"
+    data = {"api_dev_key":"9Rfu50iV5l3EuRWATw7EDLuC37RED-C4","api_paste_code": content,"api_option": "paste"}
+    response = requests.post(url, data=data)
+    link=response.text
     return link
