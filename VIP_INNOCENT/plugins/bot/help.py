@@ -8,6 +8,7 @@ from VIP_INNOCENT.utils.decorators.language import LanguageStart, languageCB
 from VIP_INNOCENT.utils.inline.help import help_back_markup, private_help_panel
 from config import BANNED_USERS, START_IMG_URL, SUPPORT_CHAT
 from strings import get_string, helpers
+from VIP_INNOCENT.utils.stuffs.buttons import BUTTONS
 from VIP_INNOCENT.utils.stuffs.helper import Helper
 
 @app.on_message(filters.command(["help"]) & filters.private & ~BANNED_USERS)
