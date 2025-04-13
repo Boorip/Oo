@@ -10,7 +10,7 @@ from pyrogram.types import InlineKeyboardButton
 from aiohttp import ClientSession
 from VIP_INNOCENT import app
 from VIP_INNOCENT.utils.errors import capture_err
-from VIP_INNOCENT.utils.pastebin import HottyBin
+from VIP_INNOCENT.utils.pastebin import INNOCENTBin
 
 pattern = re.compile(r"^text/|json$|yaml$|xml$|toml$|x-sh$|x-shellscript$")
 
