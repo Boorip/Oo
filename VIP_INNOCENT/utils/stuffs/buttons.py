@@ -16,5 +16,5 @@ class BUTTONS(object):
      InlineKeyboardButton("↻ ʙᴀᴄᴋ ↻", callback_data=f"mbot_cb"), 
     InlineKeyboardButton("▷", callback_data=f"managebot123 settings_back_helper"),
     ],
-    [InlineKeyboardButton(text=_["C_B_3"], callback_data="help_callback cbot")]
+    [InlineKeyboardButton(text=_["ᴄʀᴇᴀᴛᴇ ᴏᴡɴ ʙᴏᴛ"], callback_data="help_callback cbot")]
     ]
