@@ -120,11 +120,11 @@ async def start_pm(client, message: Message, _):
             )
         ],
         [
-            InlineKeyboardButton(text=_["C_B_2"], user_id=C_BOT_OWNER_ID),
-            InlineKeyboardButton(text=_["S_B_6"], url=C_SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=C_BOT_OWNER_ID),
+            InlineKeyboardButton(text="✦ υρ∂αтєѕ ✦", url=C_SUPPORT_CHANNEL),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper"),
+            InlineKeyboardButton(text="🍁 нєℓρ αи∂ ¢σммαи∂ѕ 🍁", callback_data="settings_back_helper"),
         ],
     ]
         
