@@ -54,8 +54,8 @@ def welcomepic(pic, user, chatname, id, uname):
     draw.text((2100, 1420), f'ID: {id}', fill=(12000, 12000, 12000), font=font)
     pfp_position = (1990, 435)
     background.paste(pfp, pfp_position, pfp)
-    background.save(f"downloads/welcome#{id}.png")
-    return f"downloads/welcome#{id}.png"
+    background.save(f"welcome#{id}.png")
+    return f"welcome#{id}.png"
 
 @app.on_chat_member_updated(filters.group, group=-3)
 async def greet_group(_, member: ChatMemberUpdated):
@@ -70,7 +70,7 @@ async def greet_group(_, member: ChatMemberUpdated):
     user = member.new_chat_member.user if member.new_chat_member else member.from_user
     try:
         pic = await app.download_media(
-            user.photo.big_file_id, file_name=f"pp{user.id}.png"
+            user.photo.big_file_id, file_name=f"welcome#{user.id}.png"
         )
     except AttributeError:
         pic = "VIP_INNOCENT/assets/INNOCENTWEL.png"
