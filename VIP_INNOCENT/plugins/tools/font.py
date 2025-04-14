@@ -146,7 +146,7 @@ async def style(c, m):
         cls = Fonts.happy
     if style == "sad":
         cls = Fonts.sad
-    if style == "megical":
+    if style == "magical":
         cls = Fonts.magical
     if style == "special":
         cls = Fonts.special
