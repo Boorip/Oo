@@ -4,7 +4,7 @@ import time
 
 from pyrogram import filters
 from pyrogram.enums import PollType, ChatAction
-from VIP_INNOCENT import app
+from Aurora import app
 
 
 last_command_time = {}
